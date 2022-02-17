@@ -59,7 +59,7 @@ a:is(:link, :active, :visited).active {
     padding: 30px; */
 
     display: grid;
-    grid-template-columns: repeat(3, 1fr);
+    grid-template-columns: repeat(3, 2fr);
     row-gap: 3em;
     margin: 30px;
     color: coral;
